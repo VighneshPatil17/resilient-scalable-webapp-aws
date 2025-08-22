@@ -29,6 +29,10 @@ The system is designed as follows:
 
 ![Architecture Screenshot](./screenshots/architecture.png)  
 
+
+<img width="1221" height="882" alt="Screenshot 2025-08-22 125015" src="https://github.com/user-attachments/assets/fdf98edb-7b5a-4348-a013-4f72cefd7d7e" />
+
+
 ---
 
 ## ⚙️ Tech Stack
